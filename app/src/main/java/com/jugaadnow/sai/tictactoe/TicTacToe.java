@@ -1,4 +1,4 @@
-package com.example.sai.tictactoe;
+package com.jugaadnow.sai.tictactoe;
 
 import android.app.Activity;
 import android.app.AlertDialog;
